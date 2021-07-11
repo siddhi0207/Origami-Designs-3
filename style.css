@@ -1,0 +1,40 @@
+h1{
+    background-color: #b600ff;
+    color: cyan;
+}
+.Heading{
+    border : solid;
+    padding: 20px;
+    margin: 30px;
+}
+
+body{
+    background-color:#e6a490;
+}
+
+.grid{
+    display : flex;
+    flex-direction: row; 
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.Origami{ 
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+    background-color: #f88a82;
+    width: 330px;
+    border-radius: 20px;
+    margin: 25px;
+    padding: 10px;
+    
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    border: solid;
+    border-radius: 20px;
+}
